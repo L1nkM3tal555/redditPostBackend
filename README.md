@@ -23,3 +23,5 @@ python manage.py runserver
 ```
 
 La aplicación se ejecuta en la dirección 127.0.0.1 en el puerto 8000
+
+Si requiere visitar el sitio de administrador hagalo a traves de la dirección http://127.0.0.1:8000/admin, con el usuario "admin" y la contraseña "LegendofZelda55"
