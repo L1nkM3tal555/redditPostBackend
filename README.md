@@ -8,9 +8,15 @@ Descargue el ultimo release del codigo o clone el repositorio desde una terminal
 git clone https://github.com/L1nkM3tal555/redditPostBackend.git
 ```
 
+Luego entre al directorio del proyecto usando el comando `cd redditPostBackend` instale los requerimientos desde la terminal usando el comando
+
+```
+pip install -r requirements.txt
+```
+
 ## Ejecución
 
-En una terminal entre al directorio del proyecto con una terminal y utilice el siguiente comando para ejecutar la aplicación (debe tener python instalado)
+Utilice el siguiente comando para ejecutar la aplicación (debe tener python instalado)
 
 ```
 python manage.py runserver
